@@ -1,5 +1,5 @@
 Idea:
-To implement diffie hellman key exchange algorithm, after encrypting the exchanged key with RSA.
+To implement diffie hellman key exchange algorithm, after encrypting the exchanged key with AES.
 
 The cryptographic application for data security by using the Diffie-Hellman key exchange and the AES algorithm was to secure data when sending, the first sender of the
 recipient exchanges the key or generated the key for the encrypted file by using the Diffie-Hellman key exchange, after obtaining the key file would be encrypted by 
